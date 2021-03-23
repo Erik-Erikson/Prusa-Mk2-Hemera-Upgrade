@@ -11,3 +11,4 @@ This allows for better adjustability and a more secure mounting. <br>
 
 After this I noticed that the firmware changes E3D mention are not enough. <br>
 So I also worked on a new firmware based on Prusa's latest firmware version for the Mk2(s) <br>
+Important change : Due to the Hemera's size X length has been changed from 250mm to 225mm. <br>
