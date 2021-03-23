@@ -7,7 +7,7 @@ So I modified their mounting plate to this improved version. <br>
 
 Improvements : <br>
 Pinda mounting is now done with 2x 8mm low profile nuts. <br>
-Thsi allows for better adjustability and a more secure mounting. <br>
+This allows for better adjustability and a more secure mounting. <br>
 
 After this I noticed that the firmware changes E3D mention are not enough. <br>
 So I also worked on a new firmware based on Prusa's latest firmware version for the Mk2(s) <br>
